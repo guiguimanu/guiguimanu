@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @guiguimanu
-- 👀 I’m primarily a video game developer specializing in Unity and C#
-- 🌱 I’m currently learning flutter and dart
-
+- 👋 Hi, I’m Guillaume de Lestrange
+- I am a software engineer by proffession
+- I like making cool stuff
+- Unity Expert
+- VR enthusiast
+- Game Developer
