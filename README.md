@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Guillaume de Lestrange
-- I am a software engineer by proffession
+- I am a programmer with over 8 years experience
+- I specialize in Virtual Reality, Video Games and Unity
 - I like making cool stuff
-- Unity Expert
-- VR enthusiast
-- Game Developer
